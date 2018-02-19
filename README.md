@@ -1,4 +1,6 @@
-**Materials for LBSN Analysis Seminar at BGU, 2018-03-05**
+# Seminar on Analysis of Location-Based Social Network (LBSN) Data
+
+Materials for LBSN Analysis Seminar at BGU, 2018-03-05
 
 **Slides and code** available [here](https://github.com/michaeldorman/LBSN_Analysis_Seminar/archive/master.zip)
 
